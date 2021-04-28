@@ -11,3 +11,9 @@ p {
     text-align:center;
     color: #84a59d;
 }
+
+header img {
+    float: right;
+    width: 100px;
+    height: auto;
+  }
