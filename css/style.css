@@ -1,6 +1,13 @@
+@import url();
+
 header, footer {
     padding: .05px;
     background-color: #edf6f9;
     text-align: center;
     border-radius: 30px;
   }
+
+p {
+    text-align:center;
+    color: #84a59d;
+}
