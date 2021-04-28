@@ -16,3 +16,8 @@ header img {
     width: 100px;
     height: auto;
   }
+
+  header, main, footer {
+    max-width: 800px;
+    margin: 0 auto;
+  }
